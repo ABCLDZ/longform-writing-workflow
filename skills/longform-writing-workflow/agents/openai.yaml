@@ -1,0 +1,4 @@
+interface:
+  display_name: "长风 · 中文长文写作"
+  short_description: "从资料到成稿，核对证据、精修语义、检查标题并规划可选视觉方案"
+  default_prompt: "使用 $longform-writing-workflow，根据我的资料完成本轮写稿、精修或标题检查，保留事实与判断边界。"
